@@ -1,4 +1,4 @@
-opition Explicite
+opition Explicit
 Dim Radius,Diameter,circumference,area
 
 Radius = CInt(InputBox("Please enter the Radius of the circle"))
